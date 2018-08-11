@@ -1,0 +1,27 @@
+#title {
+	text-align: left;
+}
+
+table {
+	border: 0;
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 0;
+	border-color: black;
+}
+
+table td {
+	padding: 5px;
+}
+
+#firstColumn {
+	width: 50px;
+}
+
+#secondColumn {
+	width:200px;
+}
+
+/*#col {
+	column-span: all;
+}*/
